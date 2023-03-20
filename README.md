@@ -48,3 +48,5 @@ Masukkan simbol operasi yang ingin dilakukan: ?
 Pilihan tidak tersedia
 
 ```
+
+![contoh](simbol.gif)
